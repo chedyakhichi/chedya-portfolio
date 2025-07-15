@@ -68,7 +68,7 @@ function showPDF(pdfPath) {
 
 AOS.init({
   offset: 100,
-  duration: 1000,
+  duration: 1200,
   easing: 'ease-in-out',
   once: true
 });
